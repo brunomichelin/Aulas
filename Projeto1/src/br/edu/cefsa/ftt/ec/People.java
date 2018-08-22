@@ -4,7 +4,7 @@ public class People {
 	
 	private int size = 0;
 	private String name;
-	private float val = 0
+	private float val = 0;
 	
 	//Construtor
 	public People(int Size, String name, float val) {
